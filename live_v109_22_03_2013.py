@@ -11,7 +11,7 @@ import ImageTk, Image, cv, math, tkFileDialog, ImageDraw, os, csv, numpy, copy, 
 
 # Made by Eric Staykov, 2013.
 # Please do not distribute without consent.
-# Contact email: estay@bigpond.com
+# Contact email: e.staykov@uq.edu.au
 
 class AutoVivification(dict):
 
